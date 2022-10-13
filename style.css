@@ -1,0 +1,58 @@
+.ul {
+    margin: auto;
+    background-color: red;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    width: 900;
+    height: 200;
+    margin: 0 90px 0 90px;
+}
+
+.bg-lgray{
+    background-color: rgb(238,238,238);
+}
+
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card1 {
+    background-color: #7EE5DA;
+    width: 36%;
+    height: 60px;
+    float: left;
+    padding: 10px;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.card2 {
+    background-color: #70CCC2;
+    width: 20%;
+    height: 80px;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.card3 {
+    background-color: #62B3AA;
+    width: 42%;
+    height: 80px;
+    float: left;
+    margin-top: 2px;
+}
+
+.card {
+    width: 90%;
+    margin: auto;
+}
